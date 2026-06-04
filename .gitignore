@@ -1,0 +1,15 @@
+# installers
+*.msi
+*.exe
+
+# archives
+*.zip
+
+# IDE
+.idea/
+
+# webdriver
+chromedriver-win64/
+
+# plotly project
+Project_using_plotly/
